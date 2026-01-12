@@ -1,0 +1,27 @@
+# notebooks
+.ipynb_checkpoints/
+__pycache__/
+
+# environments
+.venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# data: do not upload raw/interim
+data/raw/
+data/interim/
+
+# large files (avoid accidental uploads)
+*.parquet
+*.zip
+
+# do not upload raw source datasets
+data/raw/
+data/interim/
+
+# large processed artifacts (keep only small csv outputs)
+*.parquet
+*.zip
