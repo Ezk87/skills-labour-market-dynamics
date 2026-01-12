@@ -11,9 +11,7 @@ Empirical end-to-end analysis of Data & IT skill demand dynamics (2015–2024) u
 ## Key Visuals
 
 ### Observed Transition Matrix
-
 ![Observed Transition Matrix](Tableau/figures/transition_matrix_text.png)
 
 ### Transition Probability Heatmap
-
 ![Transition Probability Heatmap](Tableau/figures/transition_probability_heatmap.png)
