@@ -1,0 +1,6 @@
+w1_state,transition_state,prob,skills
+Absent,Emerging,1.00000000000000000000,5582
+Active,Accelerating,0.79768786127167630058,828
+Active,Fading,0.11464354527938342967,119
+Active,Mature,0.07610789980732177264,79
+Active,Sunsetting,0.01156069364161849711,12
